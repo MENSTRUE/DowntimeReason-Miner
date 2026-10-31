@@ -1,0 +1,11 @@
+{
+  "experiment": "02",
+  "positive_class": "DIFFICULT",
+  "negative_class": "OK",
+  "target_column": "PROBLEM_TYPE",
+  "meaning": "logbook annotation; not industrial root cause",
+  "split": "Experiment 01 exact group-disjoint train, validation, test indices",
+  "test_only_once_after_validation_selection": true,
+  "original_logbook_source": "/kaggle/input/datasets/wafabila/downtimereason-dataset/annotated-logbook/logbook.csv",
+  "seed": 42
+}

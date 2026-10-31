@@ -1,0 +1,26 @@
+{
+  "status": "completed",
+  "target": "PROBLEM_TYPE",
+  "positive_class": "DIFFICULT",
+  "candidate": "char_lr_balanced",
+  "selection": "validation_macro_f1_then_minority_recall",
+  "validation_macro_f1": 0.7195837275307474,
+  "validation_selected_threshold": 0.650563990635495,
+  "test_n": 1110,
+  "test_minority_support": 41,
+  "heldout_macro_f1": 0.7786830916468629,
+  "heldout_accuracy": 0.9666666666666667,
+  "heldout_balanced_accuracy": 0.7950557849825458,
+  "heldout_minority_precision": 0.5434782608695652,
+  "heldout_minority_recall": 0.6097560975609756,
+  "heldout_minority_f1": 0.5747126436781609,
+  "heldout_average_precision": 0.58588094104366,
+  "heldout_roc_auc": 0.959821123000753,
+  "limitations": [
+    "PROBLEM_TYPE is not physical CAUSE",
+    "severe OK/DIFFICULT imbalance",
+    "same aviation logbook source",
+    "held-out grouped split only",
+    "threshold from validation scores may shift after refit"
+  ]
+}

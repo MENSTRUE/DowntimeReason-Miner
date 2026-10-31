@@ -1,0 +1,3 @@
+experiment,label,protocol,macro_f1,accuracy,candidate
+01,PROBLEM_TYPE,grouped original holdout,0.7224412856565812,0.9531531531531532,logistic_regression
+02,PROBLEM_TYPE,same grouped holdout; additional validation model/threshold selection,0.7786830916468629,0.9666666666666667,char_lr_balanced

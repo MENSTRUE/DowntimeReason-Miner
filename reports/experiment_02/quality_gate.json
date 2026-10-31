@@ -1,0 +1,12 @@
+{
+  "input_sources_found": true,
+  "exp01_finished": true,
+  "exp02_all_candidate_results": true,
+  "group_disjoint": true,
+  "model_reload_predictions_identical": true,
+  "metric_values_finite": true,
+  "minimum_minority_test_support": 41,
+  "true_root_cause_labels_verified": false,
+  "ready_for_industrial_use": false,
+  "status": "PASS_REPRODUCIBILITY_NOT_PRODUCTION_VALIDATION"
+}
