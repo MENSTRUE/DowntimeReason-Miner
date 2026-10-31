@@ -1,0 +1,28 @@
+{
+  "rows": 1048779,
+  "columns": 20,
+  "full_row_duplicates": 48779,
+  "unique_workorders": 974535,
+  "missing": {
+    "ScheduledStartDate": 3066,
+    "CloseData": 3063,
+    "OrderType": 3041,
+    "CreatedDate": 3035,
+    "ActualStartDate": 3029,
+    "ScheduledFinishDate": 3027,
+    "OperationDescription": 3023,
+    "OperationWorkCenter": 3000,
+    "ActualFinishDate": 2993,
+    "TechnicalCompletionDate": 2992,
+    "Equipment_ID": 2989,
+    "OrderStatus": 2952,
+    "Maintenance_activity_type": 2949,
+    "WorkOrderDescription": 2947,
+    "MaintenanceWorkCenter": 2933,
+    "Location (building number)": 2930,
+    "Region": 2863,
+    "WorkOrder": 0,
+    "ActualWork": 0,
+    "PlannedWork": 0
+  }
+}

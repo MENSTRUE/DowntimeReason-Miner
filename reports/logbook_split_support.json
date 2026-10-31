@@ -1,0 +1,17 @@
+{
+  "counts": {
+    "train": {
+      "OK": 3881,
+      "DIFFICULT": 85
+    },
+    "validation": {
+      "OK": 1061,
+      "DIFFICULT": 31
+    },
+    "test": {
+      "OK": 1069,
+      "DIFFICULT": 41
+    }
+  },
+  "all_classes_in_each_split": true
+}

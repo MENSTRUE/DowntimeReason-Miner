@@ -1,0 +1,147 @@
+[
+  {
+    "path": "README.md",
+    "bytes": 322,
+    "sha256": "6288893acca71fe810e845a920eabe0383d57a63d3313a995f05cb29aebc8321"
+  },
+  {
+    "path": "features/industrial_nlp_sample.csv",
+    "bytes": 4318474,
+    "sha256": "0f845116b5c46122ea7907888222089ec159893d4b3bcb802afd837c5e67d1d8"
+  },
+  {
+    "path": "models/industrial_text_themes.joblib",
+    "bytes": 1317126,
+    "sha256": "65a90bff8ee87365356ceebf18a9cab5727a433d42f25d31b2f04aa27f8f31ea"
+  },
+  {
+    "path": "models/logbook_problem_category_champion.joblib",
+    "bytes": 130320,
+    "sha256": "d789e2673da08d3257773d7aa255f1f10de3232db5ea6f4043f4d4dd7ddad0ad"
+  },
+  {
+    "path": "plots/industrial_cluster_frequencies.png",
+    "bytes": 40749,
+    "sha256": "8cb1e53cbe500acbeb7ec0afecf481e071fa2de38b3b3d65d8c80ff3d2acde27"
+  },
+  {
+    "path": "plots/logbook_heldout_confusion.png",
+    "bytes": 21435,
+    "sha256": "98c3fe9c23afd0c348399ad57a48829854ac40dcdf7061485d2f98f97e7f04de"
+  },
+  {
+    "path": "plots/piade_operating_state_frequency.png",
+    "bytes": 56995,
+    "sha256": "87fc8575ca359d24b87a0132e68447dfc1c151bd1e74a2ad4c0182a10c4c7dcd"
+  },
+  {
+    "path": "reports/config.json",
+    "bytes": 332,
+    "sha256": "00bca42d40ef1ca1b87014cd1619a172eaef152bd039fb8ff962a3a710f09ced"
+  },
+  {
+    "path": "reports/industrial_cluster_assignments.csv",
+    "bytes": 4397760,
+    "sha256": "1c7700cb68788d03702a23d858f65b9f9467459811eb073f957ce7929ac679e5"
+  },
+  {
+    "path": "reports/industrial_cluster_audit.csv",
+    "bytes": 2315,
+    "sha256": "11047ebe55f230fac4819e2be75f9ac3d5f0403bc7dd1126594f39ff23629b89"
+  },
+  {
+    "path": "reports/industrial_full_audit.json",
+    "bytes": 701,
+    "sha256": "b0a786dfc1c831e440defd090c7c951f4837f4a3f8877cbcb066b1be48c23b39"
+  },
+  {
+    "path": "reports/input_inventory.csv",
+    "bytes": 271,
+    "sha256": "5ee3ccd588ad26ae18c24074872a5f357ef7e699dba8a37a6819c195805ce47d"
+  },
+  {
+    "path": "reports/logbook_column_audit.csv",
+    "bytes": 325,
+    "sha256": "bfb229b79dee042c05f1e5f447f70554bf98f9eb7c5a5abb296165edf5b62bd9"
+  },
+  {
+    "path": "reports/logbook_final_metrics.json",
+    "bytes": 381,
+    "sha256": "c2cde3f137fe14b379603defb42160d0de916402d2294c219e45a105820b83f2"
+  },
+  {
+    "path": "reports/logbook_per_class_report.json",
+    "bytes": 636,
+    "sha256": "7e34c99c62b32d1ceb71998471ead4bbdbeb73a1ccf823ca6386ac5bebca2754"
+  },
+  {
+    "path": "reports/logbook_split_support.json",
+    "bytes": 247,
+    "sha256": "0d1ebb2e4ded5cebec9860c21a94e13d9a63d5f594534d89d176a164e72a8ba0"
+  },
+  {
+    "path": "reports/logbook_supervised_gate.json",
+    "bytes": 190,
+    "sha256": "2c6c6a754681b162ec59b21349ebb4092d25e795b10c17e0d41ac581a9de8e3c"
+  },
+  {
+    "path": "reports/logbook_test_partition.csv",
+    "bytes": 48636,
+    "sha256": "2c914c8a068f4ecf1d16985f320cb3a74f76ba6a04748ccc91afa3ca30db7acb"
+  },
+  {
+    "path": "reports/logbook_test_predictions.csv",
+    "bytes": 52374,
+    "sha256": "8ebc227a41f670c0b59c6dcab322c90cb328949a89fa1a30cbe8f01b09fcc258"
+  },
+  {
+    "path": "reports/logbook_train_partition.csv",
+    "bytes": 164646,
+    "sha256": "017036322e8466a67491c0fed9170cbae4f192f0203f59e0cc805635d71114c4"
+  },
+  {
+    "path": "reports/logbook_validation_ledger.csv",
+    "bytes": 127,
+    "sha256": "ef5560d1761df4db7c452fce30a7567072182c78c8c788e6b01a7c7d0bc920b3"
+  },
+  {
+    "path": "reports/logbook_validation_partition.csv",
+    "bytes": 48720,
+    "sha256": "61771d8205e3c18c70c61a7db9d00a52acc0b312d377ede2eb4b79fb139e9e60"
+  },
+  {
+    "path": "reports/piade_alarm_frequencies.csv",
+    "bytes": 1222,
+    "sha256": "d6079117ae170271e9786c222e956dd62331ceda31fb841a7d20b47eb702b80d"
+  },
+  {
+    "path": "reports/piade_downtime_by_equipment.csv",
+    "bytes": 290,
+    "sha256": "f38122d278b861ea11ecb5bea2619811b0e406e0fa9f67a6dd823d35b38d871a"
+  },
+  {
+    "path": "reports/piade_hour_audit.json",
+    "bytes": 121,
+    "sha256": "b700e6d8d786c2d4b091568655db1e9a4cb15aeb3ec522cedec6b0eae13263f1"
+  },
+  {
+    "path": "reports/piade_hour_missing_fraction.csv",
+    "bytes": 3880,
+    "sha256": "1c6562ec0d507ff1e59e52729c2d846f28f65b06e205988f6dca7cc0df79b682"
+  },
+  {
+    "path": "reports/piade_raw_audit.json",
+    "bytes": 387,
+    "sha256": "4ba78f3df474960c32816e252ff28b3512bc1ee9ea5cfded4bf3794dc67c3643"
+  },
+  {
+    "path": "reports/research_gate.json",
+    "bytes": 800,
+    "sha256": "15f9327c55f599a00edd2988b826c8db716b7274a126285948d52ff9aae6941e"
+  },
+  {
+    "path": "reports/source_provenance.csv",
+    "bytes": 570,
+    "sha256": "dd812faaae75b684ff240c92f973e93b7cebe46fbdfdbe739c423f63f4db2790"
+  }
+]

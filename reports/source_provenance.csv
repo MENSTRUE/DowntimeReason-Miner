@@ -1,0 +1,4 @@
+name,source_url,scope,role
+Industrial Maintenance Synthetic,https://huggingface.co/datasets/Jvachier/industrial-maintenance-synthetic,Synthetic work-order text; no verified root-cause labels,unsupervised work-order themes
+Annotated Maintenance Logbook,https://zenodo.org/records/20779601,Aircraft maintenance problems and actions; possible sparse annotations,conditional supervised problem-category experiment
+PIADE,https://researchdata.cab.unipd.it/1459/,"Packaging production state, alarm events and hourly features","operational downtime analysis, not causal labels"

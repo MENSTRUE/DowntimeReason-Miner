@@ -1,0 +1,20 @@
+{
+  "rows": 429394,
+  "operating_states": {
+    "scheduled_downtime": 21782,
+    "idle": 50149,
+    "performance_loss": 118584,
+    "production": 146795,
+    "downtime": 92084
+  },
+  "equipment_counts": {
+    "s_1": 127676,
+    "s_2": 69765,
+    "s_3": 34454,
+    "s_4": 96644,
+    "s_5": 100855
+  },
+  "invalid_interval_start": 1016,
+  "missing_type": 0,
+  "distinct_alarm_codes": 133
+}

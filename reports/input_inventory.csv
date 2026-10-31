@@ -1,0 +1,6 @@
+source,path,size_mib
+maintenance,industrial-maintenance/maintenance.parquet,68.947
+sensor_tags,industrial-maintenance/sensor_tags.parquet,20.363
+logbook,annotated-logbook/logbook.csv,0.901
+piade_raw,piade/raw_data.csv,47.057
+piade_hour,piade/sequences_1h_data.csv,11.123

@@ -1,0 +1,17 @@
+{
+  "source_files_found": true,
+  "industrial_text_sample_rows": 37061,
+  "industrial_clusters": 12,
+  "logbook_supervised_status": "completed",
+  "piade_raw_rows": 429394,
+  "piade_hour_rows": 23376,
+  "raw_root_cause_labels_verified": false,
+  "production_ready": false,
+  "warnings": [
+    "Industrial data is synthetic; cluster IDs are themes rather than validated machine causes.",
+    "Logbook aviation domain is distinct from synthetic industrial maintenance; no row-level fusion.",
+    "Any observed logbook supervised metrics measure PROBLEM_TYPE prediction, not ground-truth physical CAUSE.",
+    "PIADE operational state and alarm data do not establish root-cause causality.",
+    "No production field validation, temporal industrial drift test, or calibrated failure probabilities."
+  ]
+}

@@ -1,0 +1,4 @@
+candidate,validation_macro_f1
+majority,0.4928007431490943
+linear_svc,0.5926298374801311
+logistic_regression,0.6729963922940542

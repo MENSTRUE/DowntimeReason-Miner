@@ -1,0 +1,13 @@
+{
+  "input": "/kaggle/input/datasets/wafabila/downtimereason-dataset",
+  "cfg": {
+    "industrial_max_texts": 120000,
+    "industrial_clusters": 12,
+    "industrial_min_df": 5,
+    "industrial_max_features": 25000,
+    "logbook_min_class_count": 30,
+    "logbook_max_classes": 12,
+    "piade_chunksize": 100000,
+    "seed": 42
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "status": "completed",
+  "target": "PROBLEM_TYPE",
+  "champion": "logistic_regression",
+  "validation_macro_f1": 0.6729963922940542,
+  "test_macro_f1": 0.7224412856565812,
+  "test_accuracy": 0.9531531531531532,
+  "test_balanced_accuracy": 0.7645850920623332,
+  "test_count": 1110,
+  "claim_scope": "within_logbook_grouped_problem_text_generalization_not_validated_root_cause"
+}

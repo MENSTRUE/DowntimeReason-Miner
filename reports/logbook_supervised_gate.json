@@ -1,0 +1,9 @@
+{
+  "eligible": true,
+  "target_column": "PROBLEM_TYPE",
+  "classes": {
+    "OK": 6011,
+    "DIFFICULT": 157
+  },
+  "notes": "Observed labels only; cause column not assumed to be complete"
+}
