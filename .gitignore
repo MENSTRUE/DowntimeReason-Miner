@@ -1,0 +1,182 @@
+
+# ============================================================
+# DowntimeReason Miner — Day 26 / 100
+# Python ML + FastAPI + React + Vite + TypeScript
+# ============================================================
+
+# ------------------------------------------------------------
+# Python cache and compiled files
+# ------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.pytype/
+.hypothesis/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+*.prof
+
+# ------------------------------------------------------------
+# Virtual environments
+# ------------------------------------------------------------
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# ------------------------------------------------------------
+# Python packaging and build
+# ------------------------------------------------------------
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+*.whl
+
+# ------------------------------------------------------------
+# Secrets and environment configuration
+# ------------------------------------------------------------
+.env
+.env.*
+!.env.example
+!**/.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials.json
+service-account*.json
+
+# ------------------------------------------------------------
+# Raw datasets — never commit original data
+# ------------------------------------------------------------
+dataset/
+datasets/
+data/raw/
+data/external/
+data/interim/
+data/processed/
+**/dataset/
+**/datasets/
+
+# Raw data file formats
+*.parquet
+*.arrow
+*.feather
+*.h5
+*.hdf5
+*.sqlite
+*.db
+
+# Large raw data archives
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.tgz
+*.gz
+
+# ------------------------------------------------------------
+# Kaggle local working files
+# ------------------------------------------------------------
+kaggle.json
+kagglehub/
+kaggle_working/
+working/
+wandb/
+mlruns/
+mlartifacts/
+lightning_logs/
+tensorboard/
+events.out.tfevents.*
+
+# ------------------------------------------------------------
+# Jupyter notebook checkpoints
+# ------------------------------------------------------------
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# .ipynb notebooks are intentionally TRACKED.
+
+# ------------------------------------------------------------
+# Machine learning model artifacts — ALLOWED
+# ------------------------------------------------------------
+# *.joblib       <- tracked
+# *.pkl          <- tracked if trusted and intentional
+# *.onnx         <- tracked
+# *.pt           <- tracked
+# *.safetensors  <- tracked
+
+# ------------------------------------------------------------
+# Frontend Node.js / Vite
+# ------------------------------------------------------------
+node_modules/
+frontend/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+.vite/
+frontend/dist/
+frontend/build/
+.next/
+.nuxt/
+.svelte-kit/
+*.tsbuildinfo
+
+# ------------------------------------------------------------
+# IDE and operating system
+# ------------------------------------------------------------
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.example.json
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+*.tmp
+*.temp
+*.bak
+
+# ------------------------------------------------------------
+# Local logs, runtime, temporary files
+# ------------------------------------------------------------
+logs/
+*.log
+tmp/
+temp/
+.cache/
+.cache-*/
+*.pid
+*.pid.lock
+
+# ------------------------------------------------------------
+# Explicitly tracked research materials
+# ------------------------------------------------------------
+# README.md
+# AGENTS.md
+# LICENSE
+# docs/**/*.md
+# notebooks/*.ipynb
+# models/*.joblib
+# reports/**/*.json
+# reports/**/*.csv
+# assets/plots/*.png
+# assets/screenshots/*.png
